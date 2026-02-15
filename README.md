@@ -28,23 +28,6 @@
 </head>
 <body>
     <h1>Welcome! I'm [Fidel sterling]</h1>
-
-    <div class="section">
-        <h2>About Me</h2>
-        <p>I'm a student currently learning [your field of study].
-           I'm interested in [your interests].</p>
-    </div>
-
-    <div class="section">
-        <h2>What I'm Learning</h2>
-        <ul>
-            <li>Git and GitHub</li>
-            <li>[Add your own items]</li>
-        </ul>
-    </div>
-
-    <div class="section">
-        <h2>Links</h2>
         <ul>
             <li><a href="https://github.com/your-username">My GitHub Profile</a></li>
         </ul>

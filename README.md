@@ -27,9 +27,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome! I'm [Fidel sterling]</h1>
-        <ul>
-            <li><a href="https://github.com/your-username">My GitHub Profile</a></li>
+    
         </ul>
     </div>
 </body>
